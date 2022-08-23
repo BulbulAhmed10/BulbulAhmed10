@@ -1,7 +1,5 @@
 ## Hi there 👋, I am BulBul Ahmed
 ### I am a Web Developer
-![I am a Web Developer]https://www.facebook.com/photo/?fbid=1304762580046912&set=a.100307043825811
-
 
 Skills:  HTML /  CSS/ Bootstrap/ JS
 
