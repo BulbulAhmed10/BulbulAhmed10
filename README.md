@@ -1,7 +1,7 @@
 ## Hi there 👋, I am BulBul Ahmed
 ### I am a Web Developer
 
-Skills:  HTML /  CSS/ Bootstrap/ JS/ React/ Node/ Express
+Skills:  HTML /  CSS/ Bootstrap/ JS/ React/ Node/ Express/ MongoDB
 
 - 🔭 I’m currently working on JavaScript Project 
 - 🌱 I’m currently learning JavaScript 
