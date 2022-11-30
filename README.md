@@ -76,7 +76,6 @@
 
 [![Bulbul Ahmed GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bulbulahmed10&&theme=xcode)](https://github.com/Bulbulahmed10)
 <br />
-<br /> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bulbulahmed10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bulbulahmed10" /></p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bulbulahmed10&show_icons=true&locale=en&theme=tokyonight" alt="Bulbulahmed10" /></p>
