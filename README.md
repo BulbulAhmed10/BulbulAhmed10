@@ -73,11 +73,10 @@
     <img align="center" alt="Bulbul Ahmed | Facebook" width="24px" src="https://upload.wikimedia.org/wikipedia/en/thumb/0/04/Facebook_f_logo_%282021%29.svg/100px-Facebook_f_logo_%282021%29.svg.png" />
 </a> &nbsp;&nbsp;
 <p>
-<br />
+
 [![Bulbul Ahmed GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bulbulahmed10&&theme=xcode)](https://github.com/Bulbulahmed10)
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bulbulahmed10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bulbulahmed10" /></p>
 <br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bulbulahmed10&show_icons=true&locale=en&theme=tokyonight" alt="Bulbulahmed10" /></p>
-<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bulbulahmed10&&theme=tokyonight" alt="Bulbulahmed10" /></p>
