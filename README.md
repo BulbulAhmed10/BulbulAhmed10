@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapercave.com/wp/wp8903914.jpg)]
+![MasterHead](https://wallpapercave.com/wp/wp8903914.jpg)
 
 
 <h1 align="center"><b>Hi , I'm Bulbul Ahmed </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
@@ -56,9 +56,7 @@
 ![Electron](https://img.shields.io/badge/-Electron-05122A?style=flat&logo=electron)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Socket](https://img.shields.io/badge/-Socket-05122A?style=flat&logo=socket.io)
-
 <br />
-
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
 
 <p align="center">
@@ -76,11 +74,10 @@
 </a> &nbsp;&nbsp;
 <p>
 
-
 [![Bulbul Ahmed GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Bulbulahmed10&&theme=xcode)](https://github.com/Bulbulahmed10)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bulbulahmed10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bulbulahmed10" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bulbulahmed10&show_icons=true&locale=en&theme=tokyonight" alt="Bulbulahmed10" /></p>
-
+<br />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bulbulahmed10&&theme=tokyonight" alt="Bulbulahmed10" /></p>
