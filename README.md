@@ -21,11 +21,9 @@
 
 - 🌱 I’m currently learning **React & Express**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **mdbulbulmolla1222@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
 
 ### 🛠 &nbsp;Tech Skill
 
