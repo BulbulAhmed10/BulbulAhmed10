@@ -72,6 +72,7 @@
 <div> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bulbulahmed10&&theme=tokyonight" alt="Bulbulahmed10" />
 <img src="https://github-readme-stats.vercel.app/api?username=Bulbulahmed10&show_icons=true&locale=en&theme=tokyonight" alt="Bulbulahmed10" />
+  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Bulbulahmed10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Bulbulahmed10" />
 
 </div>
